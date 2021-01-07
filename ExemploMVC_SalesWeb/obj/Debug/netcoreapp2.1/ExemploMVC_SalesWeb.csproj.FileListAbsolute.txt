@@ -8,10 +8,8 @@ C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\bin\Debu
 C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\bin\Debug\netcoreapp2.1\ExemploMVC_SalesWeb.pdb
 C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\bin\Debug\netcoreapp2.1\ExemploMVC_SalesWeb.Views.dll
 C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\bin\Debug\netcoreapp2.1\ExemploMVC_SalesWeb.Views.pdb
-C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\ExemploMVC_SalesWeb.csprojAssemblyReference.cache
 C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\ExemploMVC_SalesWeb.AssemblyInfoInputs.cache
 C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\ExemploMVC_SalesWeb.AssemblyInfo.cs
-C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\ExemploMVC_SalesWeb.csproj.CoreCompileInputs.cache
 C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\ExemploMVC_SalesWeb.RazorAssemblyInfo.cache
 C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\ExemploMVC_SalesWeb.RazorAssemblyInfo.cs
 C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\ExemploMVC_SalesWeb.TagHelpers.input.cache
@@ -34,3 +32,11 @@ C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debu
 C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\ExemploMVC_SalesWeb.pdb
 C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\ExemploMVC_SalesWeb.genruntimeconfig.cache
 C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\ExemploMVC_SalesWeb.csproj.CopyComplete
+C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\ExemploMVC_SalesWeb.csproj.CoreCompileInputs.cache
