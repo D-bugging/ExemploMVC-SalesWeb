@@ -41,3 +41,4 @@ C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debu
 C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\ExemploMVC_SalesWeb.csproj.CoreCompileInputs.cache
 C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\ExemploMVC_SalesWeb.csprojAssemblyReference.cache
+C:\Users\D-bugging\source\repos\ExemploMVC-SalesWeb\ExemploMVC_SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
