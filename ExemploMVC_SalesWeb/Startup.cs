@@ -11,6 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using ExemploMVC_SalesWeb.Data;
+using ExemploMVC_SalesWeb.Services;
 
 namespace ExemploMVC_SalesWeb
 {
@@ -42,6 +43,7 @@ namespace ExemploMVC_SalesWeb
 
             // To SeedingService - For dependency injection system
             services.AddScoped<SeedingService>();
+            services.AddScoped<SellerService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
