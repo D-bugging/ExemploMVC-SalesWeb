@@ -44,6 +44,7 @@ namespace ExemploMVC_SalesWeb
             // To SeedingService - For dependency injection system
             services.AddScoped<SeedingService>();
             services.AddScoped<SellerService>();
+            services.AddScoped<DepartmentService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
